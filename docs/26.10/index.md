@@ -23,6 +23,16 @@ Release schedule <schedule>
 ### Linux kernel \<VERSION\> 🐧
 ### systemd \<VERSION\>
 ### Toolchain Upgrades 🛠️
+| Toolchain | Version |
+|-----------|---------|
+| GCC | 15.2.0 |
+| Go | 1.27 |
+| LLVM | 22.1.6 |
+| OpenJDK | 25.0.4 |
+| Python | 3.14.7 |
+| Rust | 1.97.1 |
+| Zig | 0.16 |
+
 ### Default configuration changes ⚙️
 ### Ubuntu Desktop
 ### Ubuntu Foundations

@@ -120,7 +120,7 @@ You can find out more about Ubuntu on the [Ubuntu website](https://ubuntu.com/).
 
 ### Report bugs
 
-Your comments, bug reports, patches and suggestions help fix bugs and improve the quality of future releases. Please [report bugs using the tools provided](http://help.ubuntu.com/community/ReportingBugs). If you want to help with bugs, the [Bug Squad](http://wiki.ubuntu.com/BugSquad) is always looking for help.
+Your comments, bug reports, patches and suggestions help fix bugs and improve the quality of future releases. Please [report bugs using the tools provided](http://help.ubuntu.com/community/ReportingBugs). If you want to help with bugs, the [Bug Squad](https://ubuntu.com/project/docs/who-makes-ubuntu/specialist-teams/bug-squad/) is always looking for help.
 
 ### Get involved
 
